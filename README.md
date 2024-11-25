@@ -1,5 +1,7 @@
 # Minilab 3 - To-do list
 
+### Architecture
+
 Dans ce minilab, vous allez créer une application de To-do list hébergée dans l'architecture suivante :
 
 ![](./img/schema.png)
